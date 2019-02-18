@@ -1,0 +1,6 @@
+# ignore outputs
+grpc
+extract
+grpc_origin/
+dest/
+
